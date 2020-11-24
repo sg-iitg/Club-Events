@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Club Events</string>
+    <string name="user_name">Username</string>
+    <string name="pass_word">Password</string>
+    <string name="card_title">Card title</string>
+    <string name="card_content">Card content</string>
+    <string name="card__content">Card Content</string>
+    <string name="card__title">Card Title</string>
+    <string name="clubs">Clubs</string>
+    <string name="image_description">Image Not Found</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="fb">https://www.facebook.com/codingclubiitg/</string>
+    <string name="MailId">Drop a mail at :\n <a href="mailto:codingclubiitg@gmail.com">codingclubiitg@gmail.com</a></string>
+    <string name="Web">Visit us at :\nhttps://www.iitg.ac.in/stud/gymkhana/technical/home/CodingHome.html</string>
+    <string name="name">Shreya Goel</string>
+    <string name="post">Front-End/Back-End Developer</string>
+    <string name="Name">Shreya Goel</string>
+    <string name="mymail"><i>Feel free to contact at :</i>\n <a href="mailto:shreya.goel@iitg.ac.in">shreya.goel@iitg.ac.in</a></string>
+
+    <string-array name="Technical">
+        <item>TECHNICAL BOARD</item>
+        <item>Coding Club</item>
+        <item>Robotics Club</item>
+        <item>Electronics Club</item>
+        <item>Consulting And Analytics Club</item>
+        <item>E-Cell</item>
+        <item>Aeromodelling Club</item>
+        <item>Finance And Economics Club</item>
+        <item>Prakriti Club</item>
+        <item>Astronomy Club</item>
+        <item>Automobile Club</item>
+        <item>Quiz Club</item>
+        <item>4I Lab</item>
+    </string-array>
+
+    <string-array name="Cultural">
+        <item>CULTURAL BOARD</item>
+        <item>Cadence</item>
+        <item>Octaves</item>
+        <item>Lumiere</item>
+        <item>Xpressions</item>
+        <item>Fine Arts Club</item>
+        <item>Anchorenza &amp; RadioG</item>
+        <item>Montage</item>
+        <item>Lit-Soc</item>
+    </string-array>
+
+    <string-array name="Sports">
+        <item>SPORTS BOARD</item>
+        <item>Sports Club</item>
+    </string-array>
+</resources>
