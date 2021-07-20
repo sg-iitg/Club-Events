@@ -7,10 +7,10 @@
       <a href="#video-demonstration">Video Demonstration</a>
     </li>
     <li>
-      <a href="#about-the-website">About the app</a>
+      <a href="#about-the-app">About the app</a>
     </li>
     <li>
-      <a href="#key-highlights">Features</a>
+      <a href="#features">Features</a>
     </li>
    <li>
       <a href="#getting-started">Getting Started - Techstacks used, installation, execution</a>
@@ -86,17 +86,22 @@ The application consists of 2 different parts:
 * All posts from the database are then retrieved and displayed in an android application.
 
 
-You can either login or signup depending on whether you are visiting the application for the first time or are a regular user:
+* You can either login or signup depending on whether you are visiting the application for the first time or are a regular user:
+
 ![](/window_snippets/login_page.png)
 
-All clubs grouped by category can be found here:
+* All clubs grouped by category can be found here:
+
 ![](/window_snippets/club_list_page.png)
 
-Each drop down covers all clubs of each category:
+* Each drop down covers all clubs of each category:
+
 ![](/window_snippets/clubs_dropdown.png)
 
-For each club, recent Facebook posts along with the content, timestamp of release, image if any in the posts, and the facebook link are displayed in the form of cards:
+* For each club, recent Facebook posts along with the content, timestamp of release, image if any in the posts, and the facebook link are displayed in the form of cards:
+
 ![](/window_snippets/post.png)
 
-You can visit facebook to view the actual post and like/comment using the link provided:
+* You can visit facebook to view the actual post and like/comment using the link provided:
+
 ![](/window_snippets/facebook_page.png)
